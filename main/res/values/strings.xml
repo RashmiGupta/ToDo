@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="add_task">Add New Task!</string>
+    <string name="add_label">Add</string>
+    <string name="complete">Complete</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
