@@ -15,6 +15,6 @@ Time spent: 4 hours spent in total
  Notes: Spent some time making the data to persist in SQLite DB, showing edit dialog to add and update to do task item, and showing alert dialog when closing the to do task item.
  
  # Walkthrough of all user stories:
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/IkZAN"><a href="//imgur.com/IkZAN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ <img src='http://i.imgur.com/1DQvZ3X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
   GIF created with [LiceCap](http://www.cockos.com/licecap/).
