@@ -1,4 +1,5 @@
- # ToDo
+
+# ToDo
 Simple Android Application
 Helps user to create a ToDo List including support for editing an item.
 Submitted by: Rashmi Gupta
@@ -11,13 +12,32 @@ Time spent: 4 hours spent in total
  Required: User can close the tasks that are done.  Closed tasks are removed from to do list, and list view is updated.
  Required: Application can persist todo items and retrieve them properly on app restart
 
- Notes: Spent some time making the data to persist in SQLite DB, showing edit dialog to add and update to do task item, and showing alert dialog when closing the to do task item.
- Challenges: Download for git.exe on Windows platform kept failing
+ Notes: 
+ Spent some time making the data to persist in SQLite DB, showing edit dialog to add and update to do task item, and showing alert dialog when closing the to do task item.
+ Added support for completion due dates for to do items that can be displayed with expandable, and collapsable view of the list item.
+Extended ToDo List has an improvement in UI/UX by using spacing, and styling. Improved style of the todo items in the list using a custom adapter.
+
+Challenges: Download for git.exe on Windows platform kept failing
  
  # Walkthrough of all user stories:
- <img src='http://i.imgur.com/1DQvZ3X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ <img src='http://i.imgur.com/CUfAC9g.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ GIF created with [LiceCap](http://www.cockos.com/licecap/)
 
-  GIF created with [LiceCap](http://www.cockos.com/licecap/).
+ ## License
+
+    Copyright 2017 Rashmi Gupta
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License. 
   
   ## Project Analysis
 In the last four years of my Android app development experience, initially it was frustrating. Despite the familiarity with XML, 
