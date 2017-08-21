@@ -17,7 +17,6 @@ Time spent: 4 hours spent in total
  Added support for completion due dates for to do items that can be displayed with expandable, and collapsable view of the list item.
 Extended ToDo List has an improvement in UI/UX by using spacing, and styling. Improved style of the todo items in the list using a custom adapter.
 
-Challenges: Download for git.exe on Windows platform kept failing
  
  # Walkthrough of all user stories:
  <img src='http://i.imgur.com/CUfAC9g.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
