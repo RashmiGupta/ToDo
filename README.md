@@ -1,10 +1,10 @@
 
 # ToDo
-Simple Android Application: ToDo List
-User can add and view a new task item to the list that is visible on main screen
-User can click on a task in the list to edit the title text and persist the changes to the list
+Simple Android Application for ToDo List. 
+User can add and view a new task item to the list that is visible on main screen, 
+User can click on a task in the list to edit the title text and persist the changes to the list, 
 User can close the tasks that are done.  Closed tasks are removed from to do list, and list view is updated.
-Application can persist todo items and retrieve them properly on app restart
+Application can persist todo items and retrieve them properly on app restart.
 
 # Technical 
 data to persist in SQLite DB, edit dialog to add and update to do task item, and alert dialog when closing task item.
